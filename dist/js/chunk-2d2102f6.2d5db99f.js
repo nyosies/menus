@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d2102f6"],{b78c:function(e,n,r){"use strict";r.r(n);var c=function(){var e=this,n=e.$createElement,r=e._self._c||n;return r("h1",[e._v("您搜索的菜谱不存在，请重新搜索!")])},t=[],a={name:"ErrorSearch"},u=a,o=r("2877"),s=Object(o["a"])(u,c,t,!1,null,"74470471",null);n["default"]=s.exports}}]);
+//# sourceMappingURL=chunk-2d2102f6.2d5db99f.js.map
